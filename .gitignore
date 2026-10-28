@@ -1,0 +1,10 @@
+# Build NetBeans / Ant
+Hospitalis/build/
+Hospitalis/dist/
+
+# Configuration locale de l'IDE
+Hospitalis/nbproject/private/
+.vscode/
+
+# Fichiers temporaires Office
+~$*
